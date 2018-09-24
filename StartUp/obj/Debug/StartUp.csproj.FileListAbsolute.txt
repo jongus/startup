@@ -1,0 +1,7 @@
+C:\Users\jongus\Desktop\StartUp\StartUp\obj\Debug\StartUp.csprojResolveAssemblyReference.cache
+C:\Users\jongus\Desktop\StartUp\StartUp\obj\Debug\StartUp.csproj.CoreCompileInputs.cache
+C:\Users\jongus\Desktop\StartUp\StartUp\bin\Debug\StartUp.exe.config
+C:\Users\jongus\Desktop\StartUp\StartUp\bin\Debug\StartUp.exe
+C:\Users\jongus\Desktop\StartUp\StartUp\bin\Debug\StartUp.pdb
+C:\Users\jongus\Desktop\StartUp\StartUp\obj\Debug\StartUp.exe
+C:\Users\jongus\Desktop\StartUp\StartUp\obj\Debug\StartUp.pdb
